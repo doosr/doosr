@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dawserbelgacem" alt="dawserbelgacem" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/belgacem_dawser" target="blank"><img src="https://img.shields.io/twitter/follow/belgacem_dawser?logo=twitter&style=for-the-badge" alt="belgacem_dawser" /></a> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -14,8 +14,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/dawserbelgacem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dawserbelgacem" height="30" width="40" /></a>
+<a href="https://twitter.com/belgacem_dawser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="belgacem_dawser" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dawserbelgacem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dawserbelgacem" height="30" width="40" /></a>
-<a href="https://fb.com/dawser.belgacem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dawser.belgacem" height="30" width="40" /></a>
+<a href="https://fb.com/org.bel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="org.bel" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
