@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BelgacemDawser</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Driven Frontend Developer, AlphaCare Developper </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dawserbelgacem&label=Profile%20views&color=0e75b6&style=flat" alt="dawserbelgacem" /> </p>
 
@@ -7,9 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/belgacem_dawser" target="blank"><img src="https://img.shields.io/twitter/follow/belgacem_dawser?logo=twitter&style=for-the-badge" alt="belgacem_dawser" /></a> </p>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- 🌱 I’m currently learning **Flutter, DevOps , React Native**
+
+- 💬 Ask me about **react, mongodb , nodejs , expressjs**
+
+- 📫 How to reach me **dawserbelgacem122@gmail.com.com**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
