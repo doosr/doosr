@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BelgacemDawser</h1>
-<h3 align="center">Driven Frontend Developer, AlphaCare Developper </h3>
+<h3 align="center">Master's Student in IT Technologies | Embedded Systems & IoT Technician </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dawserbelgacem&label=Profile%20views&color=0e75b6&style=flat" alt="dawserbelgacem" /> </p>
 
