@@ -3,7 +3,7 @@
 # 👨‍💻 Belgacem Dawser
 ### Full-Stack Developer | IoT Solutions Architect | AI/ML Engineer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)]([https://github.com/dawserbelgacem](https://doosr.github.io/MyPortfolio/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)]((https://doosr.github.io/MyPortfolio/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dawser-belgacem-0a8578195)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dawserbelgacem122@gmail.com)
 
