@@ -215,7 +215,7 @@ I'm currently accepting new projects in:
   <img src="https://img.shields.io/badge/Email-dawserbelgacem122@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://linkedin.com/in/dawser-belgacem-0a8578195">
+<a href="https://www.linkedin.com/in/belgacem-dawser-0a8578195/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
