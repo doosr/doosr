@@ -1,19 +1,17 @@
-<h1 align="center">Hi 👋, I'm BelgacemDawser</h1>
-<h3 align="center">Master's Student in IT Technologies | Embedded Systems & IoT Technician </h3>
+<h1 align="center">Hi 👋, I'm Belgacem Dawser</h1>
+<h3 align="center">Master's Student in IT Technologies | Embedded Systems & IoT Technician</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dawserbelgacem&label=Profile%20views&color=0e75b6&style=flat" alt="dawserbelgacem" /> </p>
 
-
 <p align="left"> <a href="https://twitter.com/belgacem_dawser" target="blank"><img src="https://img.shields.io/twitter/follow/belgacem_dawser?logo=twitter&style=for-the-badge" alt="belgacem_dawser" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, DevOps , React Native**
+- 🌱 I'm currently learning **Flutter, DevOps, React Native**
 
-- 💬 Ask me about **react, mongodb , nodejs , expressjs**
+- 💬 Ask me about **React, MongoDB, Node.js, Express.js**
 
-- 📫 How to reach me **dawserbelgacem122@gmail.com.com**
+- 📫 How to reach me **dawserbelgacem122@gmail.com**
 
-
-
+---
 
 ### Languages:
 | C | C# | Python | Pascal | JavaScript | Java | Dart |
@@ -33,6 +31,7 @@
 ### Architectures:
 | Atomic Architecture | MVC |
 |----------|----------|
+| <img src="https://miro.medium.com/v2/resize:fit:1400/1*gq-Z91Vkoo5AJGr6ICT3Yw.png" title="Atomic Design" alt="Atomic Design" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/MVC-Process.svg/1200px-MVC-Process.svg.png" title="MVC" alt="MVC" width="55" height="55"/> |
 
 ### Methodologies:
 | Scrum |
@@ -42,10 +41,24 @@
 ### Databases:
 | MongoDB | Oracle Database | MySQL | 
 |----------|----------|----------|
-| <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle Database" alt="Oracle Database" width="55" height="55"/> | <img src="https://static.cdnlogo.com/logos/m/91/mysql.svg" title="MySQL" alt="MySQL" width="55" height="55"/> | 
-</div>
+| <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle Database" alt="Oracle Database" width="55" height="55"/> | <img src="https://static.cdnlogo.com/logos/m/91/mysql.svg" title="MySQL" alt="MySQL" width="55" height="55"/> |
 
+---
 
+### 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dawserbelgacem&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dawserbelgacem&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawserbelgacem&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -54,4 +67,3 @@
 <a href="https://linkedin.com/in/dawser-belgacem-0a8578195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dawser-belgacem-0a8578195" height="30" width="40" /></a>
 <a href="https://fb.com/org.bel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="org.bel" height="30" width="40" /></a>
 </p>
-
