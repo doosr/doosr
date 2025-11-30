@@ -1,69 +1,244 @@
-<h1 align="center">Hi 👋, I'm Belgacem Dawser</h1>
-<h3 align="center">Master's Student in IT Technologies | Embedded Systems & IoT Technician</h3>
+<div align="center">
+  
+# 👨‍💻 Belgacem Dawser
+### Full-Stack Developer | IoT Solutions Architect | AI/ML Engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dawserbelgacem&label=Profile%20views&color=0e75b6&style=flat" alt="dawserbelgacem" /> </p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/dawserbelgacem)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dawser-belgacem-0a8578195)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dawserbelgacem122@gmail.com)
 
-<p align="left"> <a href="https://twitter.com/belgacem_dawser" target="blank"><img src="https://img.shields.io/twitter/follow/belgacem_dawser?logo=twitter&style=for-the-badge" alt="belgacem_dawser" /></a> </p>
+<img src="https://komarev.com/ghpvc/?username=dawserbelgacem&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views" />
 
-- 🌱 I'm currently learning **Flutter, DevOps, React Native**
-
-- 💬 Ask me about **React, MongoDB, Node.js, Express.js**
-
-- 📫 How to reach me **dawserbelgacem122@gmail.com**
-
----
-
-### Languages:
-| C | C# | Python | Pascal | JavaScript | Java | Dart |
-|----------|----------|----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/pascal/pascal-original.svg" title="Pascal" alt="Pascal" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="55" height="55"/> |
-
-### Libraries, Frameworks, and SDK:
-| Node.js | Express.js | React.js | Spring Boot | Flutter | JEE |
-|----------|----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="55" height="55"/> | <img src="https://www.factfc.com/wp-content/uploads/2024/04/express-js.png" title="Express.js" alt="Express.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React.js" alt="React.js" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring Boot" alt="Spring Boot" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="JEE" alt="JEE" width="55" height="55"/> |
-
-### Technologies and Tools:
-| HTML | CSS | Git/GitHub | GitLab | UML | Postman | Swagger | Trello | Dreamweaver | FrontPage | Figma |
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/> | <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" title="Git/GitHub" alt="Git/GitHub" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="GitLab" alt="GitLab" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/UML_logo.svg" title="UML" alt="UML" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger" alt="Swagger" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="Trello" alt="Trello" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/dreamweaver/dreamweaver-original.svg" title="Dreamweaver" alt="Dreamweaver" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Microsoft_Office_FrontPage_%282000–03%29.svg/180px-Microsoft_Office_FrontPage_%282000–03%29.svg.png" title="FrontPage" alt="FrontPage" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="55" height="55"/> |
-
-### Architectures:
-| Atomic Architecture | MVC |
-|----------|----------|
-| <img src="https://miro.medium.com/v2/resize:fit:1400/1*gq-Z91Vkoo5AJGr6ICT3Yw.png" title="Atomic Design" alt="Atomic Design" width="55" height="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/MVC-Process.svg/1200px-MVC-Process.svg.png" title="MVC" alt="MVC" width="55" height="55"/> |
-
-### Methodologies:
-| Scrum |
-|----------|
-| <img src="https://pluralsight2.imgix.net/paths/images/scrum-a5c44d8364.png" title="Scrum" alt="Scrum" width="55" height="55"/> |
-
-### Databases:
-| MongoDB | Oracle Database | MySQL | 
-|----------|----------|----------|
-| <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="55" height="55"> | <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle Database" alt="Oracle Database" width="55" height="55"/> | <img src="https://static.cdnlogo.com/logos/m/91/mysql.svg" title="MySQL" alt="MySQL" width="55" height="55"/> |
+</div>
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dawserbelgacem&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dawserbelgacem&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+## 🚀 Transforming Ideas into Innovative Digital Solutions
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawserbelgacem&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+*Master's Student in IT Technologies | 5+ Years of Development Experience*
+
+**I help businesses build scalable web applications, IoT systems, and AI solutions that drive real results.**
+
+</div>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/dawserbelgacem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dawserbelgacem" height="30" width="40" /></a>
-<a href="https://twitter.com/belgacem_dawser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="belgacem_dawser" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dawser-belgacem-0a8578195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dawser-belgacem-0a8578195" height="30" width="40" /></a>
-<a href="https://fb.com/org.bel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="org.bel" height="30" width="40" /></a>
-</p>
+## 💼 What I Offer
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### 🌐 Web Development
+Full-stack applications with **React**, **Node.js**, and **MongoDB**. Responsive, fast, and scalable solutions tailored to your business needs.
+
+**Technologies:**
+- React.js / Next.js
+- Node.js / Express.js
+- MongoDB / MySQL
+- RESTful APIs / GraphQL
+
+</td>
+<td width="33%" align="center">
+
+### 🤖 IoT Solutions
+Smart connected systems with real-time monitoring and control. From prototypes to production-ready embedded systems.
+
+**Technologies:**
+- ESP32 / Arduino
+- Real-time WebSocket
+- Sensor Integration
+- Cloud Dashboard
+
+</td>
+<td width="33%" align="center">
+
+### 🧠 AI/ML Solutions
+Intelligent applications using machine learning for classification, prediction, and automation.
+
+**Technologies:**
+- Python / TensorFlow
+- Computer Vision
+- Deep Learning
+- Data Analysis
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Featured Projects & Success Stories
+
+### 🌾 Smart Irrigation Control System
+**Problem:** Manual irrigation management leading to water waste and crop stress  
+**Solution:** Real-time IoT system with automated control  
+**Tech Stack:** `React` `Node.js` `ESP32` `WebSocket` `MongoDB`  
+**Results:** 
+- ✅ 40% reduction in water consumption
+- ✅ Real-time monitoring via web dashboard
+- ✅ Automatic/Manual control modes
+
+---
+
+### 🧠 Medical AI Classification System
+**Problem:** Early detection of Alzheimer's disease  
+**Solution:** Deep learning model for MRI image analysis  
+**Tech Stack:** `Python` `TensorFlow` `CNN` `Keras`  
+**Results:**
+- ✅ 92% accuracy in disease stage classification
+- ✅ Automated diagnosis pipeline
+- ✅ Kaggle-optimized for GPU acceleration
+
+---
+
+### 😊 Emotion Recognition System
+**Problem:** Real-time emotion detection for customer service  
+**Solution:** Computer vision-based facial expression recognition  
+**Tech Stack:** `Python` `OpenCV` `Deep Learning`  
+**Results:**
+- ✅ Real-time emotion detection
+- ✅ Multi-class classification
+- ✅ Easy API integration
+
+---
+
+### 🌡️ Temperature Monitoring with gRPC
+**Problem:** Industrial temperature tracking with instant alerts  
+**Solution:** High-performance monitoring system with gRPC streaming  
+**Tech Stack:** `gRPC` `Node.js` `Real-time Streaming`  
+**Results:**
+- ✅ Instant threshold-based alerts
+- ✅ Color-coded notifications
+- ✅ Event tracking and logging
+
+---
+
+## 🛠️ Technical Expertise
+
+### **Languages**
+![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Advanced-007396?style=flat-square&logo=java&logoColor=white)
+![C/C++](https://img.shields.io/badge/C/C++-Advanced-00599C?style=flat-square&logo=c&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-Advanced-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+### **Frontend Development**
+![React](https://img.shields.io/badge/React.js-Expert-61DAFB?style=flat-square&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-Expert-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-Expert-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-Advanced-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+### **Backend Development**
+![Node.js](https://img.shields.io/badge/Node.js-Expert-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-Expert-000000?style=flat-square&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-Advanced-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-Advanced-4285F4?style=flat-square&logo=google&logoColor=white)
+
+### **Databases**
+![MongoDB](https://img.shields.io/badge/MongoDB-Expert-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-Advanced-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+### **IoT & Embedded**
+![Arduino](https://img.shields.io/badge/Arduino-Expert-00979D?style=flat-square&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-Expert-E7352C?style=flat-square&logo=espressif&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-Advanced-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
+
+### **AI/ML & Data Science**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-Advanced-D00000?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-Advanced-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+### **Tools & DevOps**
+![Git](https://img.shields.io/badge/Git-Expert-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Advanced-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-Expert-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-Advanced-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Performance
+
+<div align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api?username=dawserbelgacem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawserbelgacem&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dawserbelgacem&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="600"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=dawserbelgacem&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="Trophies"/>
+
+</div>
+
+---
+
+## 🎓 Education & Certifications
+
+🎓 **Master's Degree in IT Technologies** - In Progress  
+🎓 **Bachelor's in Computer Science** - Completed  
+🏆 **Certified Scrum Developer**  
+🏆 **IoT & Embedded Systems Specialist**
+
+---
+
+## 💡 Why Choose Me?
+
+<div align="center">
+
+| 🚀 Fast Delivery | 💯 Quality Code | 🔄 Agile Method | 💬 Clear Communication | 🛠️ Full Support |
+|:---:|:---:|:---:|:---:|:---:|
+| Meet deadlines consistently | Clean, maintainable code | Scrum & Agile practices | Regular updates | Post-delivery support |
+
+</div>
+
+---
+
+## 📫 Let's Build Something Amazing Together!
+
+<div align="center">
+
+### 🌟 Available for Freelance Projects & Consulting 🌟
+
+I'm currently accepting new projects in:
+- ✅ **Web Application Development** (React, Node.js, Full-Stack)
+- ✅ **IoT Solutions** (ESP32, Real-time Systems, Automation)
+- ✅ **AI/ML Integration** (Computer Vision, Classification, Data Analysis)
+- ✅ **API Development** (RESTful, GraphQL, gRPC)
+- ✅ **Technical Consulting** (Architecture, Code Review, Optimization)
+
+### 📧 Get in Touch
+
+<a href="mailto:dawserbelgacem122@gmail.com">
+  <img src="https://img.shields.io/badge/Email-dawserbelgacem122@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/dawser-belgacem-0a8578195">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/belgacem_dawser">
+  <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<a href="https://dev.to/dawserbelgacem">
+  <img src="https://img.shields.io/badge/Dev.to-Follow-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+</a>
+
+### ⚡ Response Time: Within 24 hours
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💼 Open to Opportunities | 🌍 Remote Available | 🤝 Let's Collaborate
+
+**⭐ If you like my work, don't forget to star my repositories! ⭐**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+
+</div>
