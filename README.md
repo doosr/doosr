@@ -72,6 +72,33 @@ Intelligent applications using machine learning for classification, prediction, 
 
 ## 🎯 Featured Projects & Success Stories
 
+### 🏭 IoT Predictive Maintenance Platform with Edge AI & AR
+**Problem:** Industrial equipment failures causing costly downtime and production losses  
+**Solution:** Real-time predictive maintenance system with Edge Computing AI and Augmented Reality  
+**Tech Stack:** `Python` `Node.js` `SVM` `ESP32` `MQTT` `Three.js` `Unity AR` `Raspberry Pi`  
+
+**Key Features:**
+- 🧠 **Edge AI** - SVM model running on Raspberry Pi (152ms latency)
+- 📊 **Real-time Dashboard** - 3D digital twin with live sensor data visualization
+- 📱 **AR Mobile App** - Unity-based AR for on-site machine inspection
+- ⚡ **MQTT IoT** - Scalable sensor network with automated anomaly detection
+
+**Results:**
+- ✅ **98.5% AI accuracy** in anomaly detection (target: 90%)
+- ✅ **152ms total latency** - 24% better than target
+- ✅ **99.9% system availability** over 48h continuous testing
+- ✅ **66% latency reduction** vs traditional cloud-based solutions
+- ✅ **Zero critical bugs** - 100% sprint success rate
+
+**Innovations:**
+- 🌟 First AR solution for industrial predictive maintenance
+- 🌟 Hybrid Edge/Cloud architecture for optimal performance
+- 🌟 Cognitive AI generating context-aware recommendations
+
+**[📖 View Full Documentation](https://github.com/doosr/Predictive_maintenance)** | **[🎥 Live Demo](https://github.com/doosr/Predictive_maintenance#-résultats)**
+
+---
+
 ### 🌾 Smart Irrigation Control System
 **Problem:** Manual irrigation management leading to water waste and crop stress  
 **Solution:** Real-time IoT system with automated control  
@@ -124,9 +151,11 @@ Intelligent applications using machine learning for classification, prediction, 
 ![Java](https://img.shields.io/badge/Java-Advanced-007396?style=flat-square&logo=java&logoColor=white)
 ![C/C++](https://img.shields.io/badge/C/C++-Advanced-00599C?style=flat-square&logo=c&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-Advanced-0175C2?style=flat-square&logo=dart&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-Advanced-239120?style=flat-square&logo=c-sharp&logoColor=white)
 
 ### **Frontend Development**
 ![React](https://img.shields.io/badge/React.js-Expert-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-Advanced-000000?style=flat-square&logo=three.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-Expert-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-Expert-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-Advanced-02569B?style=flat-square&logo=flutter&logoColor=white)
@@ -134,11 +163,13 @@ Intelligent applications using machine learning for classification, prediction, 
 ### **Backend Development**
 ![Node.js](https://img.shields.io/badge/Node.js-Expert-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-Expert-000000?style=flat-square&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-Expert-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-Advanced-6DB33F?style=flat-square&logo=spring&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-Advanced-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ### **Databases**
 ![MongoDB](https://img.shields.io/badge/MongoDB-Expert-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-Advanced-22ADF6?style=flat-square&logo=influxdb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-Advanced-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-Advanced-F80000?style=flat-square&logo=oracle&logoColor=white)
 
@@ -146,11 +177,17 @@ Intelligent applications using machine learning for classification, prediction, 
 ![Arduino](https://img.shields.io/badge/Arduino-Expert-00979D?style=flat-square&logo=arduino&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-Expert-E7352C?style=flat-square&logo=espressif&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-Advanced-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
+![MQTT](https://img.shields.io/badge/MQTT-Expert-660066?style=flat-square&logo=mqtt&logoColor=white)
 
 ### **AI/ML & Data Science**
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Expert-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Advanced-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-Advanced-D00000?style=flat-square&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Advanced-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+### **Game Development & 3D**
+![Unity](https://img.shields.io/badge/Unity-Advanced-000000?style=flat-square&logo=unity&logoColor=white)
+![AR Foundation](https://img.shields.io/badge/AR_Foundation-Advanced-00D9FF?style=flat-square&logo=unity&logoColor=white)
 
 ### **Tools & DevOps**
 ![Git](https://img.shields.io/badge/Git-Expert-F05032?style=flat-square&logo=git&logoColor=white)
@@ -164,12 +201,12 @@ Intelligent applications using machine learning for classification, prediction, 
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=dawserbelgacem&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dawserbelgacem&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=doosr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doosr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dawserbelgacem&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="600"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=doosr&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="600"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=dawserbelgacem&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="Trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=doosr&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="Trophies"/>
 
 </div>
 
@@ -177,10 +214,11 @@ Intelligent applications using machine learning for classification, prediction, 
 
 ## 🎓 Education & Certifications
 
-🎓 **Master's Degree in IT Technologies** - In Progress  
+🎓 **Master's Degree in IT Technologies - IoT Specialization** - In Progress (2025-2026)  
 🎓 **Bachelor's in Computer Science** - Completed  
 🏆 **Certified Scrum Developer**  
-🏆 **IoT & Embedded Systems Specialist**
+🏆 **IoT & Embedded Systems Specialist**  
+🏆 **Industry 4.0 & Predictive Maintenance Expert**
 
 ---
 
@@ -204,9 +242,10 @@ Intelligent applications using machine learning for classification, prediction, 
 
 I'm currently accepting new projects in:
 - ✅ **Web Application Development** (React, Node.js, Full-Stack)
-- ✅ **IoT Solutions** (ESP32, Real-time Systems, Automation)
-- ✅ **AI/ML Integration** (Computer Vision, Classification, Data Analysis)
-- ✅ **API Development** (RESTful, GraphQL, gRPC)
+- ✅ **IoT Solutions** (ESP32, Real-time Systems, Automation, Industry 4.0)
+- ✅ **AI/ML Integration** (Computer Vision, Classification, Predictive Analytics)
+- ✅ **API Development** (RESTful, GraphQL, gRPC, MQTT)
+- ✅ **AR/VR Development** (Unity, AR Foundation, ARCore)
 - ✅ **Technical Consulting** (Architecture, Code Review, Optimization)
 
 ### 📧 Get in Touch
@@ -219,12 +258,8 @@ I'm currently accepting new projects in:
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://twitter.com/belgacem_dawser">
-  <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
-
-<a href="https://dev.to/dawserbelgacem">
-  <img src="https://img.shields.io/badge/Dev.to-Follow-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+<a href="https://github.com/doosr">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 ### ⚡ Response Time: Within 24 hours
@@ -238,6 +273,8 @@ I'm currently accepting new projects in:
 ### 💼 Open to Opportunities | 🌍 Remote Available | 🤝 Let's Collaborate
 
 **⭐ If you like my work, don't forget to star my repositories! ⭐**
+
+**🔥 Latest Project:** [IoT Predictive Maintenance Platform](https://github.com/doosr/Predictive_maintenance) - Industry 4.0 solution with Edge AI & AR
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
