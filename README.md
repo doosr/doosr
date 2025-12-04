@@ -15,74 +15,108 @@
 
 <img src="https://komarev.com/ghpvc/?username=doosr&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views" />
 
+<br>
+
+### � **Master's Student in IT Technologies** | **50+ Satisfied Clients** | **Industry 4.0 Innovator**
+
 </div>
 
 ---
+
+## 🎯 What I Do Best
 
 <div align="center">
 
-## 💡 **Master's Student in IT Technologies** | **5+ Years Experience** | **50+ Clients Worldwide**
+### 🌟 **Specialized in building cutting-edge solutions that make a real impact** 🌟
 
 </div>
-
----
-
-## 🎯 What I Do
 
 <table>
 <tr>
 <td width="33%" valign="top" align="center">
 
-### 🌐 Full-Stack Development
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200"/>
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> Full-Stack Development
 
-**Modern Web Applications**
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250" height="180"/>
 
-React • Next.js • Node.js  
-Express • MongoDB • MySQL  
-REST APIs • GraphQL • WebSocket
+**Building Modern Web Experiences**
 
-✨ Responsive & Scalable Solutions  
-⚡ Real-time Applications  
-🎨 Beautiful UI/UX Design
+`React` `Next.js` `Node.js`  
+`Express` `MongoDB` `MySQL`  
+`REST APIs` `GraphQL` `WebSocket`
+
+<br>
+
+<img src="https://img.shields.io/badge/Expertise-Expert-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Projects-15+-blue?style=flat-square"/>
+
+**✨ What I Deliver:**
+- ⚡ Blazing Fast Performance
+- 📱 Pixel Perfect Responsive Design
+- 🎨 Stunning User Interfaces
+- 🔒 Secure & Scalable Architecture
 
 </td>
 
 <td width="33%" valign="top" align="center">
 
-### 🤖 IoT Solutions
-<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="200"/>
+### <img src="https://media2.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif?cid=ecf05e47zzx1e3vxq6xqkqz9g5bfz7z7z8z9z0z1z2z3z4z5&rid=giphy.gif" width="30px"> IoT Solutions
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="250" height="180"/>
 
 **Smart Connected Systems**
 
-ESP32 • Arduino • Raspberry Pi  
-MQTT • InfluxDB • Edge Computing  
-Real-time Monitoring
+`ESP32` `Arduino` `Raspberry Pi`  
+`MQTT` `InfluxDB` `Edge AI`  
+`Real-time Monitoring` `Automation`
 
-🏭 Industry 4.0 Solutions  
-📊 Live Dashboards  
-🔄 Automated Control Systems
+<br>
+
+<img src="https://img.shields.io/badge/Expertise-Expert-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Systems-15+-blue?style=flat-square"/>
+
+**🏭 What I Build:**
+- 📊 Live Monitoring Dashboards
+- 🤖 Automated Control Systems
+- 📡 Sensor Network Integration
+- ⚙️ Industry 4.0 Solutions
 
 </td>
 
 <td width="33%" valign="top" align="center">
 
-### 🧠 AI/ML Engineering
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmJkYzQzNGJkZjU5ZGQzZDY5MzE5ZTI5MjA5ZTJkZGEyYzA5NzY3YiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200"/>
+### <img src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47zzx1e3vxq6xqkqz9g5bfz7z7z8z9z0z1z2z3z4z5&rid=giphy.gif" width="30px"> AI/ML Engineering
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="250" height="180"/>
 
 **Intelligent Applications**
 
-Python • TensorFlow • Scikit-learn  
-Computer Vision • Deep Learning  
-Predictive Analytics
+`Python` `TensorFlow` `Scikit-learn`  
+`Computer Vision` `Deep Learning`  
+`Predictive Analytics` `SVM`
 
-🎯 95%+ AI Accuracy  
-🔬 Research & Innovation  
-📈 Data-Driven Decisions
+<br>
+
+<img src="https://img.shields.io/badge/Expertise-Advanced-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Models-20+-blue?style=flat-square"/>
+
+**🧠 What I Create:**
+- 🎯 95%+ AI Accuracy Models
+- 👁️ Computer Vision Systems
+- 📈 Predictive Analytics
+- 🔬 Research & Innovation
 
 </td>
 </tr>
 </table>
+
+<div align="center">
+
+### 🚀 **Why Choose Me?**
+
+| Fast Delivery ⚡ | Premium Quality 💎 | Agile Approach 🔄 | 24/7 Support 🛠️ | Client Success 🎯 |
+|:---:|:---:|:---:|:---:|:---:|
+| On-time guaranteed | Clean, scalable code | Scrum certified | Always available | 4.9/5 average rating |
 
 ---
 
