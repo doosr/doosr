@@ -35,7 +35,7 @@
 <tr>
 <td width="33%" valign="top" align="center">
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px"> Full-Stack Development
+### 🌐 Full-Stack Development
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250" height="180"/>
 
@@ -60,9 +60,9 @@
 
 <td width="33%" valign="top" align="center">
 
-### <img src="https://media2.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif?cid=ecf05e47zzx1e3vxq6xqkqz9g5bfz7z7z8z9z0z1z2z3z4z5&rid=giphy.gif" width="30px"> IoT Solutions
+### 🤖 IoT Solutions
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="250" height="180"/>
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="250" height="180"/>
 
 **Smart Connected Systems**
 
@@ -85,9 +85,9 @@
 
 <td width="33%" valign="top" align="center">
 
-### <img src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47zzx1e3vxq6xqkqz9g5bfz7z7z8z9z0z1z2z3z4z5&rid=giphy.gif" width="30px"> AI/ML Engineering
+### 🧠 AI/ML Engineering
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="250" height="180"/>
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="250" height="180"/>
 
 **Intelligent Applications**
 
