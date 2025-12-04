@@ -197,21 +197,103 @@ Intelligent applications using machine learning for classification, prediction, 
 
 ---
 
-## 📊 GitHub Performance
+## 📊 GitHub Performance & Contributions
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doosr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/doosr)
+### 📈 Overall Statistics
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=doosr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/doosr)
+<table>
+<tr>
+<td align="center" width="50%">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=doosr&theme=tokyonight&hide_border=true)](https://github.com/doosr)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doosr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)](https://github.com/doosr)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=doosr&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)](https://github.com/doosr)
+</td>
+<td align="center" width="50%">
 
-### 🔥 Current Focus
-**IoT + AI Solutions** | **Industry 4.0** | **Edge Computing** | **Predictive Maintenance**
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=doosr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)](https://github.com/doosr)
 
+</td>
+</tr>
+</table>
+
+### 🔥 Contribution Streak & Activity
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=doosr&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://github.com/doosr)
+
+### 🏆 GitHub Achievements
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=doosr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)](https://github.com/doosr)
+
+### 📊 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=doosr&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9)](https://github.com/doosr)
+
+### 💼 Professional Focus Areas
+
+```mermaid
+pie title Technology Stack Distribution
+    "IoT & Embedded" : 30
+    "Web Development" : 25
+    "AI/ML" : 20
+    "Mobile & AR" : 15
+    "DevOps & Tools" : 10
+```
+
+| Domain | Technologies | Experience |
+|--------|--------------|------------|
+| 🌐 **Full-Stack Web** | React, Node.js, Express, MongoDB | 5+ years |
+| 🤖 **IoT Solutions** | ESP32, MQTT, Raspberry Pi, Edge AI | 4+ years |
+| 🧠 **AI/ML** | Python, TensorFlow, Scikit-learn, SVM | 3+ years |
+| 📱 **Mobile & AR** | Flutter, Unity, AR Foundation | 2+ years |
+| 🔧 **DevOps** | Docker, Git, CI/CD | 3+ years |
+
+### 🎯 Current Focus & Goals
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+**🏭 Industry 4.0**
+
+Predictive Maintenance  
+Edge Computing  
+Digital Twins
+
+</td>
+<td align="center" width="33%">
+
+**🌐 IoT Innovation**
+
+Real-time Systems  
+MQTT Architecture  
+Sensor Networks
+
+</td>
+<td align="center" width="33%">
+
+**🤖 AI Integration**
+
+Anomaly Detection  
+Pattern Recognition  
+Smart Recommendations
+
+</td>
+</tr>
+</table>
+
+### 📈 Project Impact Metrics
+
+| Metric | Achievement | Status |
+|--------|-------------|--------|
+| **Total Projects** | 20+ completed | ✅ |
+| **IoT Deployments** | 10+ production systems | ✅ |
+| **AI Models Trained** | 15+ ML models | ✅ |
+| **Code Contributions** | 5000+ commits | ✅ |
+| **Client Satisfaction** | 98% positive feedback | ✅ |
+
+</div>
 </div>
 
 ---
