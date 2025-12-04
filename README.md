@@ -17,7 +17,7 @@
 
 <br>
 
-### � **Master's Student in IT Technologies** | **50+ Satisfied Clients** | **Industry 4.0 Innovator**
+### 🌟 **Master's Student in IT Technologies** | **50+ Satisfied Clients** | **Industry 4.0 Innovator** 🌟
 
 </div>
 
