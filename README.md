@@ -158,6 +158,35 @@ Database:    InfluxDB • MongoDB
 </details>
 
 <details>
+<summary><b>👶 AlphaCare - Smart Baby Safety Bracelet with AI</b></summary>
+<br>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Status-Production_Ready-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cry_AI-95%25_Accuracy-brightgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Battery-24h+-blue?style=for-the-badge" />
+</div>
+
+**🎯 Challenge:** Parents need constant baby health monitoring with intelligent analytics  
+**💡 Solution:** Wearable IoT bracelet with AI cry detection and health anomaly prediction
+
+**Tech Stack:** `ESP32-CAM` `React` `Node.js` `Python ML` `Flutter` `MongoDB` `SVM` `Audio Classification`
+
+**🧠 AI Features:**
+- 😢 **Cry Detection AI (95% accuracy)** - Identifies hunger, pain, discomfort, sleepiness
+- 💓 **Health Monitoring** - Heart rate, SpO2, temperature tracking
+- 🤖 **Anomaly Detection** - SVM predicting irregular patterns
+- 📍 **GPS + Safe Zones** - Real-time location with geo-fencing
+- 💬 **Smart Recommendations** - AI suggests actions based on patterns
+
+**Results:**
+- ✅ 95% cry recognition | ✅ 24h battery | ✅ 70% fewer false alarms | ✅ < 500ms latency
+
+[📖 View on GitHub](https://github.com/doosr/Alpha_Care)
+
+</details>
+
+<details>
 <summary><b>🌾 Smart Irrigation Control System</b></summary>
 <br>
 
