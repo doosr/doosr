@@ -200,13 +200,17 @@ Intelligent applications using machine learning for classification, prediction, 
 ## 📊 GitHub Performance
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=doosr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=doosr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=doosr&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="600"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=doosr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/doosr)
 
-<img src="https://github-profile-trophy.vercel.app/?username=doosr&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="Trophies"/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=doosr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)](https://github.com/doosr)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=doosr&theme=tokyonight&hide_border=true)](https://github.com/doosr)
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=doosr&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)](https://github.com/doosr)
+
+### 🔥 Current Focus
+**IoT + AI Solutions** | **Industry 4.0** | **Edge Computing** | **Predictive Maintenance**
 
 </div>
 
