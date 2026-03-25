@@ -208,6 +208,39 @@ Database:    InfluxDB • MongoDB
 </details>
 
 <details>
+<summary><b>🤟 SignLens - Real-time Sign Language Translation AI</b></summary>
+<br>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Status-Production_Ready-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI_Accuracy-90.3%25-brightgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Performance-24_FPS-blue?style=for-the-badge" />
+</div>
+
+**🎯 Challenge:** Communication barriers for the deaf and hard-of-hearing community.  
+**💡 Solution:** A cross-platform mobile app that translates sign language gestures into text and speech in real-time, 100% offline.
+
+**Tech Stack:** `Flutter` `MediaPipe` `TensorFlow Lite` `Python` `ESP32-CAM` `MJPEG Streaming`
+
+**🧠 AI Features:**
+
+- ✋ **Hand Landmark Detection** - Powered by MediaPipe for high-precision tracking.
+- 🔠 **Alphabet Recognition (CNN)** - 90.3% accuracy for A-Z signs.
+- 🗣️ **Word & Sequence Recognition (LSTM)** - Deep learning for complex gesture patterns.
+- 🌍 **Multilingual Support** - Seamless translation between French, English, and Arabic.
+- 🎤 **Inverse Mode** - Converts voice/text into animated sign language sequences.
+
+**Results:**
+
+- ✅ 90.3% AI accuracy | ✅ < 75ms latency | ✅ 24 FPS on mobile | ✅ 100% Offline | ✅ IoT Ready
+
+[📖 View on GitHub](https://github.com/doosr/SignLanguageApp_Build) • [🎥 Live Demo](https://doosr.github.io/SignLanguageApp_Build/)
+
+</details>
+
+
+
+<details>
 <summary><b>🧠 Medical AI Classification - Alzheimer's Detection</b></summary>
 <br>
 
