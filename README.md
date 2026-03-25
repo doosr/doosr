@@ -11,7 +11,6 @@
     <meta name="keywords"
         content="IoT, Embedded Systems, AI, Machine Learning, Full-Stack Developer, Predictive Maintenance, Industry 4.0, ESP32, Raspberry Pi, Node.js, React, Python, C, C++, Portfolio" />
     <meta name="author" content="Belgacem Dawser" />
-
     <!-- Social Media integration -->
     <meta property="og:title" content="Belgacem Dawser - IoT & AI Engineer Portfolio" />
     <meta property="og:image" content="images/user.jpg" />
@@ -23,27 +22,20 @@
     <meta name="twitter:image" content="images/user.jpg" />
     <meta name="twitter:url" content="https://doosr.github.io/MyPortfolio/" />
     <meta name="twitter:card" content="summary_large_image" />
-
     <link href="https://fonts.googleapis.com/css?family=Space+Mono" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet">
-
     <!-- Stylesheets -->
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/bootstrap.css">
     <link rel="stylesheet" href="css/style.css">
-
     <script src="js/modernizr-2.6.2.min.js"></script>
     <!--[if lt IE 9]>
 	<script src="js/respond.min.js"></script>
 	<![endif]-->
-
 </head>
-
 <body>
-
     <div class="fh5co-loader"></div>
-
     <div id="page">
         <header id="fh5co-header" class="fh5co-cover js-fullheight" role="banner"
             style="background-image:url(images/cover_bg_3.jpg);" data-stellar-background-ratio="0.5">
@@ -79,7 +71,6 @@
                 </div>
             </div>
         </header>
-
         <div id="fh5co-about" class="animate-box">
             <div class="container">
                 <div class="row">
@@ -110,20 +101,17 @@
                         <p>I'm <strong>Belgacem Dawser</strong>, a passionate <strong>Full-Stack Developer</strong> and
                             <strong>IoT Solutions Architect</strong> currently pursuing my Master's degree in Internet
                             of Things (IoT) at ISET Mahdia.</p>
-
                         <p>With expertise spanning <strong>Embedded Systems</strong>, <strong>AI/ML
                                 Engineering</strong>, and <strong>Modern Web Development</strong>, I specialize in
                             creating cutting-edge solutions for Industry 4.0. My portfolio includes successful projects
                             in predictive maintenance, real-time IoT monitoring systems, and intelligent AI
                             applications.</p>
-
                         <p>I excel at building scalable full-stack applications using <strong>React</strong>,
                             <strong>Node.js</strong>, and <strong>MongoDB</strong>, while also developing sophisticated
                             IoT ecosystems with <strong>ESP32</strong>, <strong>Raspberry Pi</strong>, and <strong>MQTT
                                 protocols</strong>. My AI/ML projects leverage <strong>Python</strong>,
                             <strong>TensorFlow</strong>, and <strong>Computer Vision</strong> to deliver smart,
                             data-driven solutions.</p>
-
                         <p><strong>What I Do Best:</strong></p>
                         <ul>
                             <li>🌐 <strong>Full-Stack Development</strong> - Modern web applications with React &
@@ -132,14 +120,12 @@
                             <li>🧠 <strong>AI/ML Engineering</strong> - Intelligent applications with 95%+ accuracy</li>
                             <li>📱 <strong>Mobile & AR Development</strong> - Flutter & Unity applications</li>
                         </ul>
-
                         <p><em>I'm committed to transforming innovative ideas into scalable digital products that drive
                                 real business results.</em></p>
                     </div>
                 </div>
             </div>
         </div>
-
         <div id="fh5co-resume" class="fh5co-bg-color">
             <div class="container">
                 <div class="row animate-box">
@@ -155,7 +141,6 @@
                                     <h3>Featured Projects</h3>
                                 </div>
                             </li>
-
                             <!-- Predictive Maintenance Project -->
                             <li class="animate-box timeline-unverted">
                                 <div class="timeline-badge"><i class="icon-suitcase"></i></div>
@@ -186,7 +171,6 @@
                                     </div>
                                 </div>
                             </li>
-
                             <!-- AlphaCare Project -->
                             <li class="timeline-inverted animate-box">
                                 <div class="timeline-badge"><i class="icon-suitcase"></i></div>
@@ -210,7 +194,6 @@
                                     </div>
                                 </div>
                             </li>
-
                             <!-- Digital Watch Project -->
                             <li class="animate-box timeline-unverted">
                                 <div class="timeline-badge"><i class="icon-suitcase"></i></div>
@@ -232,7 +215,6 @@
                                     </div>
                                 </div>
                             </li>
-
                             <!-- Client Management System -->
                             <li class="timeline-inverted animate-box">
                                 <div class="timeline-badge"><i class="icon-suitcase"></i></div>
@@ -256,14 +238,12 @@
                                     </div>
                                 </div>
                             </li>
-
                             <br>
                             <li class="timeline-heading text-center animate-box">
                                 <div>
                                     <h3>Education</h3>
                                 </div>
                             </li>
-
                             <!-- Master's Degree -->
                             <li class="timeline-inverted animate-box">
                                 <div class="timeline-badge"><i class="icon-graduation-cap"></i></div>
@@ -282,7 +262,6 @@
                                     </div>
                                 </div>
                             </li>
-
                             <!-- Bachelor's Degree -->
                             <li class="animate-box timeline-unverted">
                                 <div class="timeline-badge"><i class="icon-graduation-cap"></i></div>
@@ -300,7 +279,6 @@
                                     </div>
                                 </div>
                             </li>
-
                             <!-- Baccalauréat -->
                             <li class="animate-box timeline-inverted">
                                 <div class="timeline-badge"><i class="icon-graduation-cap"></i></div>
@@ -314,13 +292,11 @@
                                     </div>
                                 </div>
                             </li>
-
                         </ul>
                     </div>
                 </div>
             </div>
         </div>
-
         <div id="fh5co-skills" class="animate-box">
             <div class="container">
                 <div class="row">
@@ -329,7 +305,6 @@
                         <p>Comprehensive skill set across multiple domains with proven project success</p>
                     </div>
                 </div>
-
                 <div class="row" style="margin-top: 40px;">
                     <!-- Programming Languages Column -->
                     <div class="col-md-6">
@@ -338,7 +313,6 @@
                             </h3>
                             <p style="color: #999; font-size: 14px;">Core development languages & frameworks</p>
                         </div>
-
                         <div class="progress-wrap">
                             <h3><span class="name-left"><strong>JavaScript / Node.js</strong></span><span
                                     class="value-right" style="color: #2c98f0; font-weight: bold;">95%</span></h3>
@@ -349,7 +323,6 @@
                                 </div>
                             </div>
                         </div>
-
                         <div class="progress-wrap">
                             <h3><span class="name-left"><strong>Python</strong></span><span class="value-right"
                                     style="color: #2c98f0; font-weight: bold;">90%</span></h3>
@@ -360,7 +333,6 @@
                                 </div>
                             </div>
                         </div>
-
                         <div class="progress-wrap">
                             <h3><span class="name-left"><strong>HTML5 / CSS3</strong></span><span class="value-right"
                                     style="color: #2c98f0; font-weight: bold;">95%</span></h3>
@@ -371,7 +343,6 @@
                                 </div>
                             </div>
                         </div>
-
                         <div class="progress-wrap">
                             <h3><span class="name-left"><strong>C / C++</strong></span><span class="value-right"
                                     style="color: #2c98f0; font-weight: bold;">85%</span></h3>
@@ -382,7 +353,6 @@
                                 </div>
                             </div>
                         </div>
-
                         <div class="progress-wrap">
                             <h3><span class="name-left"><strong>Java</strong></span><span class="value-right"
                                     style="color: #2c98f0; font-weight: bold;">80%</span></h3>
@@ -393,7 +363,6 @@
                                 </div>
                             </div>
                         </div>
-
                         <div class="progress-wrap">
                             <h3><span class="name-left"><strong>C# (Unity)</strong></span><span class="value-right"
                                     style="color: #2c98f0; font-weight: bold;">75%</span></h3>
@@ -405,7 +374,6 @@
                             </div>
                         </div>
                     </div>
-
                     <!-- Technologies & Platforms Column -->
                     <div class="col-md-6">
                         <div style="text-align: center; margin-bottom: 30px;">
@@ -413,7 +381,6 @@
                                 Platforms</h3>
                             <p style="color: #999; font-size: 14px;">Specialized tools & frameworks</p>
                         </div>
-
                         <div class="progress-wrap">
                             <h3><span class="name-left"><strong>IoT Development (ESP32/Arduino)</strong></span><span
                                     class="value-right" style="color: #2c98f0; font-weight: bold;">90%</span></h3>
@@ -424,7 +391,6 @@
                                 </div>
                             </div>
                         </div>
-
                         <div class="progress-wrap">
                             <h3><span class="name-left"><strong>Raspberry Pi & Edge Computing</strong></span><span
                                     class="value-right" style="color: #2c98f0; font-weight: bold;">90%</span></h3>
@@ -435,7 +401,6 @@
                                 </div>
                             </div>
                         </div>
-
                         <div class="progress-wrap">
                             <h3><span class="name-left"><strong>AI/ML (TensorFlow, Scikit-learn)</strong></span><span
                                     class="value-right" style="color: #2c98f0; font-weight: bold;">85%</span></h3>
@@ -446,7 +411,6 @@
                                 </div>
                             </div>
                         </div>
-
                         <div class="progress-wrap">
                             <h3><span class="name-left"><strong>React & Modern Web Frameworks</strong></span><span
                                     class="value-right" style="color: #2c98f0; font-weight: bold;">90%</span></h3>
@@ -457,7 +421,6 @@
                                 </div>
                             </div>
                         </div>
-
                         <div class="progress-wrap">
                             <h3><span class="name-left"><strong>Flutter & Mobile Development</strong></span><span
                                     class="value-right" style="color: #2c98f0; font-weight: bold;">80%</span></h3>
@@ -468,7 +431,6 @@
                                 </div>
                             </div>
                         </div>
-
                         <div class="progress-wrap">
                             <h3><span class="name-left"><strong>Cloud & DevOps (Docker, Git)</strong></span><span
                                     class="value-right" style="color: #2c98f0; font-weight: bold;">85%</span></h3>
@@ -481,7 +443,6 @@
                         </div>
                     </div>
                 </div>
-
                 <!-- Stats Summary -->
                 <div class="row" style="margin-top: 50px;">
                     <div class="col-md-12">
@@ -510,7 +471,6 @@
                 </div>
             </div>
         </div>
-
         <div id="fh5co-work" class="fh5co-bg-dark">
             <div class="container">
                 <div class="row animate-box">
@@ -559,7 +519,6 @@
                 </div>
             </div>
         </div>
-
         <div id="fh5co-consult">
             <div class="video fh5co-video" style="background-image: url(images/cover_bg_1.jpg);">
                 <div class="overlay"></div>
@@ -570,13 +529,10 @@
                 <form action="https://formsubmit.co/dawserbelgacem122@gmail.com" method="POST">
                     <!-- Honeypot -->
                     <input type="text" name="_honey" style="display:none">
-
                     <!-- Disable Captcha -->
                     <input type="hidden" name="_captcha" value="false">
-
                     <!-- Success Page -->
                     <input type="hidden" name="_next" value="https://doosr.github.io/MyPortfolio/#fh5co-consult">
-
                     <div class="row form-group">
                         <div class="col-md-6">
                             <input type="text" name="firstname" class="form-control" placeholder="Your First Name *"
@@ -610,7 +566,6 @@
                 </form>
             </div>
         </div>
-
         <div id="fh5co-footer">
             <div class="container">
                 <div class="row">
@@ -630,11 +585,9 @@
                 </div>
             </div>
         </div>
-
         <div class="gototop js-top">
             <a href="#" class="js-gotop"><i class="icon-arrow-up22"></i></a>
         </div>
-
         <!-- jQuery -->
         <script src="js/jquery.min.js"></script>
         <!-- jQuery Easing -->
