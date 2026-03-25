@@ -156,31 +156,8 @@
                                 </div>
                             </li>
 
-                            <!-- SmartPlant IA Project -->
-                            <li class="animate-box timeline-unverted">
-                                <div class="timeline-badge" style="background-color: #4CAF50;"><i class="icon-leaf"></i></div>
-                                <div class="timeline-panel">
-                                    <div class="timeline-heading">
-                                        <h3 class="timeline-title">SmartPlant IA - Système de Monitoring Intelligent</h3>
-                                        <span class="company">Projet Personnel & Innovation Agricole – 2024-2025</span>
-                                    </div>
-                                    <div class="timeline-body">
-                                        <p><strong>Système complet de monitoring pour l'agriculture intelligente utilisant l'IA pour prédire les besoins en eau et détecter les maladies des plantes en temps réel.</strong></p>
-                                        <p><strong>Résultats Clés :</strong></p>
-                                        <ul>
-                                            <li>✅ Taux de précision de 96% dans le diagnostic des maladies via Edge AI</li>
-                                            <li>✅ Optimisation de 30% des ressources hydriques</li>
-                                            <li>✅ Déploiement sur ESP32-CAM avec flux vidéo temps réel</li>
-                                            <li>✅ Alertes intelligentes basées sur les conditions environnementales</li>
-                                        </ul>
-                                        <p><strong>Technologies :</strong> ESP32-CAM, TensorFlow Lite, Python, React, Node.js, MQTT, Flask</p>
-                                        <p><a href="https://github.com/doosr/SmartPlant_IA" target="_blank"><strong>📖 Voir le Projet sur GitHub →</strong></a></p>
-                                    </div>
-                                </div>
-                            </li>
-
                             <!-- Predictive Maintenance Project -->
-                            <li class="animate-box timeline-inverted">
+                            <li class="animate-box timeline-unverted">
                                 <div class="timeline-badge"><i class="icon-suitcase"></i></div>
                                 <div class="timeline-panel">
                                     <div class="timeline-heading">
@@ -193,12 +170,17 @@
                                                 Augmented Reality for industrial equipment monitoring.</strong></p>
                                         <p><strong>Key Achievements:</strong></p>
                                         <ul>
-                                            <li>✅ 98.5% AI accuracy in anomaly detection</li>
-                                            <li>✅ 152ms total latency (24% faster than goal)</li>
+                                            <li>✅ 98.5% AI accuracy in anomaly detection (8.5% above target)</li>
+                                            <li>✅ 152ms total latency (24% faster than 200ms goal)</li>
                                             <li>✅ 99.9% system availability over 48h testing</li>
                                             <li>✅ First AR solution for industrial maintenance</li>
+                                            <li>✅ 66% latency reduction vs cloud-based solutions</li>
                                         </ul>
-                                        <p><strong>Technologies:</strong> Python, Node.js, SVM, ESP32, MQTT, Raspberry Pi, Three.js, Unity 3D, InfluxDB</p>
+                                        <p><strong>Technologies:</strong> Python, Node.js, SVM, ESP32, MQTT, Raspberry
+                                            Pi, Three.js (3D Dashboard), Unity 3D (AR Mobile App), InfluxDB, Socket.io
+                                        </p>
+                                        <p><strong>Innovation:</strong> Hybrid Edge/Cloud AI architecture with real-time
+                                            3D visualization and cognitive AI recommendations</p>
                                         <p><a href="https://github.com/doosr/Predictive_maintenance"
                                                 target="_blank"><strong>📖 View Full Documentation →</strong></a></p>
                                     </div>
@@ -206,7 +188,7 @@
                             </li>
 
                             <!-- AlphaCare Project -->
-                            <li class="timeline-unverted animate-box">
+                            <li class="timeline-inverted animate-box">
                                 <div class="timeline-badge"><i class="icon-suitcase"></i></div>
                                 <div class="timeline-panel">
                                     <div class="timeline-heading">
@@ -216,7 +198,13 @@
                                     <div class="timeline-body">
                                         <p>Developed a wearable IoT bracelet for real-time baby health monitoring with
                                             AI-powered anomaly detection and cry pattern recognition.</p>
-                                        <p><strong>Technologies:</strong> ESP32-CAM, Raspberry Pi, Python, ML, Flutter, React, Node.js, MongoDB, WebSocket</p>
+                                        <p><strong>Features:</strong> Real-time vital signs monitoring (heart rate,
+                                            SpO2, temperature), GPS location tracking, cry detection AI, automated
+                                            emergency alerts, mobile dashboard (Flutter)</p>
+                                        <p><strong>Technologies:</strong> ESP32-CAM, Raspberry Pi, Python, ML (Audio
+                                            Classification), Flutter, React, Node.js, MongoDB, WebSocket</p>
+                                        <p><strong>Results:</strong> 95% accuracy in cry pattern recognition, 24h+
+                                            battery life, secure encrypted data transmission</p>
                                         <p><a href="https://github.com/doosr/Alpha_Care" target="_blank"><strong>📖 View
                                                     on GitHub →</strong></a></p>
                                     </div>
@@ -224,7 +212,7 @@
                             </li>
 
                             <!-- Digital Watch Project -->
-                            <li class="timeline-inverted animate-box">
+                            <li class="animate-box timeline-unverted">
                                 <div class="timeline-badge"><i class="icon-suitcase"></i></div>
                                 <div class="timeline-panel">
                                     <div class="timeline-heading">
@@ -233,11 +221,38 @@
                                     </div>
                                     <div class="timeline-body">
                                         <p>Development of a feature-rich digital watch using ESP32 microcontroller with
-                                            Arduino framework.</p>
+                                            Arduino framework. Includes time display, stopwatch, alarm system, and LED
+                                            visual indicators.</p>
                                         <p><strong>Technologies:</strong> ESP32, Arduino IDE, C++, Real-time Clock
-                                            (RTC), LCD Display</p>
+                                            (RTC), LEDs, LCD Display</p>
+                                        <p><strong>Features:</strong> Digital clock with auto-sync, stopwatch with lap
+                                            timing, customizable alarms, battery-optimized design</p>
                                         <p><a href="https://github.com/doosr/montre_digitale" target="_blank"><strong>📖
                                                     View on GitHub →</strong></a></p>
+                                    </div>
+                                </div>
+                            </li>
+
+                            <!-- Client Management System -->
+                            <li class="timeline-inverted animate-box">
+                                <div class="timeline-badge"><i class="icon-suitcase"></i></div>
+                                <div class="timeline-panel">
+                                    <div class="timeline-heading">
+                                        <h3 class="timeline-title">Client Management System - Full-Stack Web Application
+                                        </h3>
+                                        <span class="company">Personal Project – 2024</span>
+                                    </div>
+                                    <div class="timeline-body">
+                                        <p>Designed and implemented a responsive web-based client management system with
+                                            full CRUD operations. Features include user authentication, client records
+                                            management, search functionality, and cloud deployment for remote
+                                            accessibility.</p>
+                                        <p><strong>Technologies:</strong> Node.js, Express.js, MongoDB, HTML5, CSS3,
+                                            JavaScript, RESTful API, Cloud Deployment</p>
+                                        <p><strong>Features:</strong> Real-time updates, secure authentication,
+                                            responsive design, data export functionality</p>
+                                        <p><a href="https://github.com/doosr/cloud" target="_blank"><strong>📖 View on
+                                                    GitHub →</strong></a></p>
                                     </div>
                                 </div>
                             </li>
@@ -260,6 +275,10 @@
                                     <div class="timeline-body">
                                         <p><strong>Specialization:</strong> Internet of Things, Industry 4.0, Edge
                                             Computing, AI/ML Integration</p>
+                                        <p><strong>Focus Areas:</strong> Predictive Maintenance, Smart Systems,
+                                            Real-time Analytics, Cloud & Edge Architecture</p>
+                                        <p><strong>Thesis:</strong> IoT Predictive Maintenance Platform with Edge AI &
+                                            Augmented Reality</p>
                                     </div>
                                 </div>
                             </li>
@@ -276,6 +295,22 @@
                                     <div class="timeline-body">
                                         <p><strong>Specialization:</strong> Embedded Systems, Microcontrollers,
                                             Real-time Systems</p>
+                                        <p><strong>Graduation Project:</strong> AlphaCare - Smart Baby Monitoring System
+                                        </p>
+                                    </div>
+                                </div>
+                            </li>
+
+                            <!-- Baccalauréat -->
+                            <li class="animate-box timeline-inverted">
+                                <div class="timeline-badge"><i class="icon-graduation-cap"></i></div>
+                                <div class="timeline-panel">
+                                    <div class="timeline-heading">
+                                        <h3 class="timeline-title">Baccalauréat in Science & Technology</h3>
+                                        <span class="company">Lycée Abou Kacem Chebbi Chebba – 2021</span>
+                                    </div>
+                                    <div class="timeline-body">
+                                        <p><strong>Specialty:</strong> Sciences et Techniques</p>
                                     </div>
                                 </div>
                             </li>
@@ -347,6 +382,28 @@
                                 </div>
                             </div>
                         </div>
+
+                        <div class="progress-wrap">
+                            <h3><span class="name-left"><strong>Java</strong></span><span class="value-right"
+                                    style="color: #2c98f0; font-weight: bold;">80%</span></h3>
+                            <div class="progress">
+                                <div class="progress-bar progress-bar-1 progress-bar-striped active" role="progressbar"
+                                    aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"
+                                    style="width:80%; background: linear-gradient(to right, #f89820, #d87405);">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="progress-wrap">
+                            <h3><span class="name-left"><strong>C# (Unity)</strong></span><span class="value-right"
+                                    style="color: #2c98f0; font-weight: bold;">75%</span></h3>
+                            <div class="progress">
+                                <div class="progress-bar progress-bar-1 progress-bar-striped active" role="progressbar"
+                                    aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"
+                                    style="width:75%; background: linear-gradient(to right, #9b4993, #68217a);">
+                                </div>
+                            </div>
+                        </div>
                     </div>
 
                     <!-- Technologies & Platforms Column -->
@@ -369,7 +426,18 @@
                         </div>
 
                         <div class="progress-wrap">
-                            <h3><span class="name-left"><strong>AI/ML (TensorFlow Lite, Sklearn)</strong></span><span
+                            <h3><span class="name-left"><strong>Raspberry Pi & Edge Computing</strong></span><span
+                                    class="value-right" style="color: #2c98f0; font-weight: bold;">90%</span></h3>
+                            <div class="progress">
+                                <div class="progress-bar progress-bar-1 progress-bar-striped active" role="progressbar"
+                                    aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"
+                                    style="width:90%; background: linear-gradient(to right, #c51a4a, #9e1439);">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="progress-wrap">
+                            <h3><span class="name-left"><strong>AI/ML (TensorFlow, Scikit-learn)</strong></span><span
                                     class="value-right" style="color: #2c98f0; font-weight: bold;">85%</span></h3>
                             <div class="progress">
                                 <div class="progress-bar progress-bar-1 progress-bar-striped active" role="progressbar"
@@ -380,12 +448,23 @@
                         </div>
 
                         <div class="progress-wrap">
-                            <h3><span class="name-left"><strong>React & Modern Frameworks</strong></span><span
+                            <h3><span class="name-left"><strong>React & Modern Web Frameworks</strong></span><span
                                     class="value-right" style="color: #2c98f0; font-weight: bold;">90%</span></h3>
                             <div class="progress">
                                 <div class="progress-bar progress-bar-1 progress-bar-striped active" role="progressbar"
                                     aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"
                                     style="width:90%; background: linear-gradient(to right, #61dafb, #00b4d8);">
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="progress-wrap">
+                            <h3><span class="name-left"><strong>Flutter & Mobile Development</strong></span><span
+                                    class="value-right" style="color: #2c98f0; font-weight: bold;">80%</span></h3>
+                            <div class="progress">
+                                <div class="progress-bar progress-bar-1 progress-bar-striped active" role="progressbar"
+                                    aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"
+                                    style="width:80%; background: linear-gradient(to right, #02569b, #014880);">
                                 </div>
                             </div>
                         </div>
@@ -397,6 +476,33 @@
                                 <div class="progress-bar progress-bar-1 progress-bar-striped active" role="progressbar"
                                     aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"
                                     style="width:85%; background: linear-gradient(to right, #2496ed, #1976d2);">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Stats Summary -->
+                <div class="row" style="margin-top: 50px;">
+                    <div class="col-md-12">
+                        <div
+                            style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 10px; box-shadow: 0 10px 30px rgba(0,0,0,0.2);">
+                            <div class="row">
+                                <div class="col-md-3 col-sm-6 text-center" style="margin-bottom: 20px;">
+                                    <h2 style="color: white; font-size: 48px; font-weight: bold; margin: 0;">25+</h2>
+                                    <p style="color: rgba(255,255,255,0.9); margin: 5px 0;">Projects Completed</p>
+                                </div>
+                                <div class="col-md-3 col-sm-6 text-center" style="margin-bottom: 20px;">
+                                    <h2 style="color: white; font-size: 48px; font-weight: bold; margin: 0;">15+</h2>
+                                    <p style="color: rgba(255,255,255,0.9); margin: 5px 0;">IoT Systems Deployed</p>
+                                </div>
+                                <div class="col-md-3 col-sm-6 text-center" style="margin-bottom: 20px;">
+                                    <h2 style="color: white; font-size: 48px; font-weight: bold; margin: 0;">50+</h2>
+                                    <p style="color: rgba(255,255,255,0.9); margin: 5px 0;">Satisfied Clients</p>
+                                </div>
+                                <div class="col-md-3 col-sm-6 text-center" style="margin-bottom: 20px;">
+                                    <h2 style="color: white; font-size: 48px; font-weight: bold; margin: 0;">4.9/5</h2>
+                                    <p style="color: rgba(255,255,255,0.9); margin: 5px 0;">Average Rating</p>
                                 </div>
                             </div>
                         </div>
@@ -415,15 +521,6 @@
                 </div>
                 <div class="row">
                     <div class="col-md-3 text-center col-padding animate-box">
-                        <a href="https://github.com/doosr/SmartPlant_IA" target="_blank" class="work"
-                            style="background-image: url(images/smartplant.jpg);">
-                            <div class="desc">
-                                <h3>SmartPlant IA</h3>
-                                <span>Système Intelligent Agricole</span>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="col-md-3 text-center col-padding animate-box">
                         <a href="https://github.com/doosr/Predictive_maintenance" target="_blank" class="work"
                             style="background-image: url(images/iot-maintenance.jpg);">
                             <div class="desc">
@@ -438,6 +535,15 @@
                             <div class="desc">
                                 <h3>AlphaCare</h3>
                                 <span>Smart Baby Monitor</span>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-md-3 text-center col-padding animate-box">
+                        <a href="https://github.com/doosr/cloud" target="_blank" class="work"
+                            style="background-image: url(images/web.jpg);">
+                            <div class="desc">
+                                <h3>Client Management</h3>
+                                <span>Full-Stack Web App</span>
                             </div>
                         </a>
                     </div>
@@ -462,8 +568,13 @@
                 <h2>Get In Touch</h2>
                 <p>Let's discuss your project and build something amazing together!</p>
                 <form action="https://formsubmit.co/dawserbelgacem122@gmail.com" method="POST">
+                    <!-- Honeypot -->
                     <input type="text" name="_honey" style="display:none">
+
+                    <!-- Disable Captcha -->
                     <input type="hidden" name="_captcha" value="false">
+
+                    <!-- Success Page -->
                     <input type="hidden" name="_next" value="https://doosr.github.io/MyPortfolio/#fh5co-consult">
 
                     <div class="row form-group">
@@ -509,6 +620,12 @@
                             Full-Stack Developer | IoT Architect | AI Engineer<br>
                             Building Innovative Solutions for Industry 4.0
                         </p>
+                        <p style="margin-top: 10px;">
+                            <a href="https://github.com/doosr" target="_blank" style="margin: 0 10px;">GitHub</a> |
+                            <a href="https://linkedin.com/in/belgacem-dawser-0a8578195/" target="_blank"
+                                style="margin: 0 10px;">LinkedIn</a> |
+                            <a href="mailto:dawserbelgacem122@gmail.com" style="margin: 0 10px;">Email</a>
+                        </p>
                     </div>
                 </div>
             </div>
@@ -520,11 +637,17 @@
 
         <!-- jQuery -->
         <script src="js/jquery.min.js"></script>
+        <!-- jQuery Easing -->
         <script src="js/jquery.easing.1.3.js"></script>
+        <!-- Bootstrap -->
         <script src="js/bootstrap.min.js"></script>
+        <!-- Waypoints -->
         <script src="js/jquery.waypoints.min.js"></script>
+        <!-- Stellar Parallax -->
         <script src="js/jquery.stellar.min.js"></script>
+        <!-- Easy PieChart -->
         <script src="js/jquery.easypiechart.min.js"></script>
+        <!-- Main -->
         <script src="js/main.js"></script>
 
 </body>
