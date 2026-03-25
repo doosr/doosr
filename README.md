@@ -126,6 +126,41 @@
 ## 🏆 Featured Projects
 
 <details open>
+<summary><b>🛡️ CyberScam Sentinel - Scambait Defence Tool</b></summary>
+<br>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Status-Ultimate_Version_Ready-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI_Analyst-Level_3-brightgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/IDS_Latency-<100ms-blue?style=for-the-badge" />
+</div>
+
+**🎯 Challenge:** Scambaiters need advanced tools to defend against sophisticated cyber threats in real-time.  
+**💡 Solution:** An Electron-based cybersecurity platform with hybrid AI, integrated network scan tools (Nmap), and secure reverse access.
+
+**Tech Stack:**
+```
+Frontend:    React • Framer Motion • Lucide React • Vite
+Application: Electron • TypeScript • Node.js
+Security:    Nmap • AES-256 Encryption • IDS System
+AI Engine:   Gemini • Claude • Local Heuristic AI
+Database:    LevelDB • SQLite
+```
+
+**🚀 Results:**
+- ✅ **Sentinel Copilot PRO:** Multi-provider AI (Gemini/Claude) for threat analysis.
+- ✅ **Honeypot Manager:** Automated decoy servers to trap and study attackers.
+- ✅ **Security Arsenal:** Integrated Nmap scanner with 100+ reconnaissance tools.
+- ✅ **Reverse Access:** Encrypted remote control for hostile system management.
+- ✅ **Global Support:** Full translations for English, French, and Arabic.
+
+**🌟 Innovation:** Hybrid AI architecture with real-time behavioral anomaly detection and decentralized IDS.
+
+[📖 View Project Details](#) • [🎥 Live Demo Preview](#)
+
+</details>
+
+<details>
 <summary><b>🏭 IoT Predictive Maintenance Platform - Industry 4.0</b></summary>
 <br>
 
