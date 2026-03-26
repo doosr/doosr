@@ -5,7 +5,7 @@
 # 🚀 Full-Stack Developer | IoT Architect | AI Engineer
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Innovative+IoT+Solutions+%F0%9F%A4%96;Industry+4.0+%7C+Edge+AI+%7C+Predictive+Maintenance+%F0%9F%8F%AD;Transforming+Ideas+into+Scalable+Digital+Products+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Fleet+Manager+-+Industrial+IoT+Innovation+%F0%9F%9A%9A;Real-time+Truck+Telemetry+%7C+Edge+AI+%7C+Fleet+Control+%F0%9F%8F%AD;Revolutionizing+Logistics+with+Smart+Connected+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00D9FF?style=for-the-badge&logoColor=white)](https://doosr.github.io/MyPortfolio/)
@@ -126,6 +126,39 @@
 ## 🏆 Featured Projects
 
 <details open>
+<summary><b>🚚 Fleet Manager - Système de Télémesure & Gestion de Flotte IoT</b></summary>
+<br>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Status-Innovation_Ready-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Edge_AI-Implemented-brightgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Monitoring-Real--time-blue?style=for-the-badge" />
+</div>
+
+**🎯 Challenge:** Lack of real-time visibility and predictive analytics for industrial forklift fleets (ISUZU).  
+**💡 Solution:** A comprehensive IoT platform integrating ESP32 telemetry, a glassmorphism web dashboard (React), and a Flutter mobile application for fleet-wide monitoring.
+
+**Tech Stack:**
+```
+Frontend:    React (Vite) • Tailwind CSS • Framer Motion • Recharts
+Mobile:      Flutter • Material Design 3 • fl_chart
+Firmware:    ESP32 • C++ • PlatformIO • MQTT
+Infrastructure: Node.js • Express • InfluxDB • GitHub Actions CI/CD
+```
+
+**🚀 Results:**
+- ✅ **Real-time Telemetry:** Monitoring of temperature, oil pressure, fuel level, and transmission.
+- ✅ **Edge AI Integration:** Automated detection of engine anomalies directly on the hardware.
+- ✅ **Multi-Platform Access:** Native mobile apps and a high-performance web dashboard.
+- ✅ **Automated Workflows:** Full CI/CD pipeline for Android/iOS builds and web deployment.
+
+**🌟 Innovation:** Hybrid IoT architecture optimized for extreme industrial environments with real-time JSON API and local/cloud data sync.
+
+[📖 View Project Details](https://github.com/doosr/oldTruck) • [🎥 Live Demo Preview](#)
+
+</details>
+
+<details>
 <summary><b>🛡️ CyberScam Sentinel - Scambait Defence Tool</b></summary>
 <br>
 
